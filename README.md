@@ -1,9 +1,11 @@
-### Hello there 👋
+### Hello there 👋👋
 
-I am a Research Engineer by profession with a Master's degree in Communication and Multimedia Engineering.
-I am from India🇮🇳, live in Germany🇩🇪 and work for a company located in the USA🇺🇸
+I am a Research Engineer by profession with a master's degree in Communication and Multimedia Engineering.
+I am from India, live in Germany and work for a company located in the US
 
-My Interests are mainly in the fields of NLP, Audio and Image processing
+My Interests are mainly in the NLP, Audio and Image processing.
+
+## [LinkedIn profile](https://www.linkedin.com/in/adhithyan-ramadoss-bb7b8873/) 
 
 
 <!--
