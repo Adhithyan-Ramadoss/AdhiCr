@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+I am a Research Engineer by profession with a Master's degree in Communication and Multimedia Engineering.
+I am from India🇮🇳, live in Germany🇩🇪 and work for a company located in the USA🇺🇸
+
+My Interests are mainly in the fields of NLP, Audio and Image processing
+
 
 <!--
 **AdhiCr/AdhiCr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
